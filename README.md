@@ -24,3 +24,4 @@ Here is the exhaustive list:
 | Advanced M: Migrations                                   | `14.0-M_migration`                   |
 | Advanced N: Security                                     | `14.0-N_security`                    |
 | Advanced O: Performances                                 | `14.0-O_perf`                        |
+# odoo-training
