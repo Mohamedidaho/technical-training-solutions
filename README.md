@@ -25,3 +25,4 @@ Here is the exhaustive list:
 | Advanced N: Security                                     | `14.0-N_security`                    |
 | Advanced O: Performances                                 | `14.0-O_perf`                        |
 # odoo-training
+# odoo-training 
